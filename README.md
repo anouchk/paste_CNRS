@@ -1,4 +1,4 @@
-# paste_CNRS
+# COMPTER ET LISTER LES TUTELLES DES LABOS
 
 Il s'agit d'appliquer la fonction "sum" avec "by", mais aussi "paste" de data.table dans R, à un jeu de données du CNRS relatif aux UMR dont l'organisme est tutelle.
 
